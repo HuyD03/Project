@@ -1,8 +1,3 @@
-/**
- *  @file main.cpp
- *  @author Stephen Gilbert
- */
-
 #include <iostream>
 #include <fstream>
 #include <string>
@@ -19,9 +14,7 @@ using namespace std;
 
 #include "h38.h"
 
-/**
- * Run your program's tests
- */
+
 void runTests()
 {
     ///////////// Begin a set of tests
