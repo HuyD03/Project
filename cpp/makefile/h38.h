@@ -1,8 +1,3 @@
-/*
- *	@file h38.h
- *  @author Your name goes here
- *  @version  what day and meeting time
- */
 #ifndef H38_H_
 #define H38_H_
 
